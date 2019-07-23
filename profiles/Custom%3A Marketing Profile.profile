@@ -1277,10 +1277,10 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.SalesDemoField__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
+    <editable>false</editable>
+    <readable>false</readable>
+    <field>Account.SalesDemoField__c</field>
+</fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account %28Marketing%29 Layout</layout>
     </layoutAssignments>
